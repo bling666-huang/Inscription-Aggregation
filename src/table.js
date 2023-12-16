@@ -52,4 +52,4 @@ const GitHubTable = ({ repoUrl }) => {
   return <Table data={data} />;
 };
 
-export default GTable;
+export default GitHubTable;
